@@ -164,7 +164,9 @@ A geospatial analytics and predictive modeling project focused on earthquake tre
 ## 🌐 Connect With Me
 
 📧 **Email:** [varshitha817@gmail.com](mailto:varshitha817@gmail.com)
+
 💼 **LinkedIn:** https://www.linkedin.com/in/varshithagangula080602
+
 💻 **GitHub:** https://github.com/Gangula-Varshitha
 
 ---
