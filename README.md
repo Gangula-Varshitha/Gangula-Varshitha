@@ -2,7 +2,7 @@
 
 ### **Software Engineer | Backend Systems | Full Stack Development | AI-Powered Applications**
 
-> I build scalable software systems, cloud-ready applications, and intelligent products that combine backend engineering, full stack development, and applied AI.
+> I specialize in designing and building scalable software systems, cloud-native applications, and intelligent products that combine software engineering, full-stack development, and applied AI. My experience includes developing robust backend services, interactive web applications, and data-driven solutions with an emphasis on performance, maintainability, and real-world impact.
 
 ---
 
