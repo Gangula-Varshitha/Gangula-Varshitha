@@ -37,7 +37,7 @@
 
 ### 🏦 Software Developer — US Bank
 
-**Charlotte, NC | Jan 2025 – Dec 2025**
+**UNITED STATES| Jan 2025 – Dec 2025**
 
 * Architected **Spring Boot microservices** supporting high-throughput banking workflows and distributed transaction processing
 * Engineered **12+ REST APIs** replacing legacy SOAP-based services for better system interoperability
