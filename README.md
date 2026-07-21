@@ -33,46 +33,6 @@
 
 ---
 
-## 💼 Professional Experience
-
-### 🏦 Software Developer — US Bank
-
-**UNITED STATES| Jan 2025 – Dec 2025**
-
-* Architected **Spring Boot microservices** supporting high-throughput banking workflows and distributed transaction processing
-* Engineered **12+ REST APIs** replacing legacy SOAP-based services for better system interoperability
-* Built JavaScript-based monitoring utilities to support enterprise operational workflows
-* Implemented centralized **logging, monitoring, and production error handling** across backend services
-* Optimized **CI/CD pipelines using Jenkins and AWS**, improving release speed and deployment stability
-* Contributed to backend systems designed for **scalability, low latency, and reliability**
-
----
-
-### ⚙️ Full Stack Developer — SASINFO Technologies
-
-**Hyderabad, India | Sep 2022 – Jun 2024**
-
-* Built and scaled **full stack healthcare applications** using **Spring Boot, React, REST APIs, and AWS**
-* Developed backend services for distributed systems supporting platform-level application workflows
-* Deployed containerized applications with **Docker and Kubernetes**
-* Integrated **Apache Kafka event pipelines** to improve messaging and service communication
-* Improved frontend responsiveness and application usability for business-facing systems
-* Strengthened system observability using **ELK Stack and Splunk**
-
----
-
-### 📊 Software Developer — Factly
-
-**Hyderabad, India | Mar 2022 – Aug 2022**
-
-* Developed **Angular dashboards and Node.js APIs** for analytics-driven and public-data applications
-* Built software workflows for large-scale dataset aggregation, visualization, and reporting
-* Automated API testing and validation workflows to improve application reliability
-* Supported data-heavy journalism and reporting systems through frontend + backend engineering
-* Helped turn raw datasets into usable, production-facing software interfaces
-
----
-
 ## 🚀 Featured Projects
 
 ### 🛍️ Locus — AI-Powered Local Retail Recommendation Chatbot
